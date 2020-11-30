@@ -1,0 +1,12 @@
+= clipshare
+Doc Writer <julius.dehner@gmail.com>
+
+== What is this?
+
+clipshare is a simple self-hosted website.
+
+It receives text and shares this text with everyone else looking at the site.
+
+I intend to use it to play Visual Novels in Japanese with friends so I can share the game's text with them easily.
+
+Therefore it is intended to be used with https://github.com/kmltml/clipboard-inserter
